@@ -1,0 +1,8 @@
+D:\ngman\MyStuffs\Study\DEV\Projetos\Stack I\C#\MenuPizzaria\bin\Debug\MenuPizzaria.exe.config
+D:\ngman\MyStuffs\Study\DEV\Projetos\Stack I\C#\MenuPizzaria\bin\Debug\MenuPizzaria.exe
+D:\ngman\MyStuffs\Study\DEV\Projetos\Stack I\C#\MenuPizzaria\bin\Debug\MenuPizzaria.pdb
+D:\ngman\MyStuffs\Study\DEV\Projetos\Stack I\C#\MenuPizzaria\obj\Debug\MenuPizzaria.csproj.AssemblyReference.cache
+D:\ngman\MyStuffs\Study\DEV\Projetos\Stack I\C#\MenuPizzaria\obj\Debug\MenuPizzaria.csproj.CoreCompileInputs.cache
+D:\ngman\MyStuffs\Study\DEV\Projetos\Stack I\C#\MenuPizzaria\obj\Debug\MenuPizzaria.exe
+D:\ngman\MyStuffs\Study\DEV\Projetos\Stack I\C#\MenuPizzaria\obj\Debug\MenuPizzaria.pdb
+D:\ngman\MyStuffs\Study\DEV\Projetos\Stack I\C#\MenuPizzaria\obj\Debug\MenuPizzaria.exe.config
