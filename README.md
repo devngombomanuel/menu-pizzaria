@@ -1,5 +1,5 @@
 # Menu Pizzaria
-Um menu interativo para uma pizzaria em aplicação de console desenvolvida em C# (.NET 8).
+Um menu interativo para uma pizzaria em aplicação de console.
 
 ## 🚀 Funcionalidades
 - Listar oferta do dia
